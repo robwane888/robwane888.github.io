@@ -1,3 +1,5 @@
+google.com, pub-8632319965022964, DIRECT, f08c47fec0942fa0
+
 # CAS.ai Updated Aug 04, 2023, support@cleveradssolutions.com
 #=== CASExchange Aug 04, 2023
 cas.ai, 11, DIRECT
